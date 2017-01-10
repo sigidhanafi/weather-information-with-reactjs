@@ -1,4 +1,4 @@
-# WeatherInformation
+# Indonesia Weather information
 
 Base learning from [Redux](https://www.udemy.com/react-redux/)?
 
@@ -23,3 +23,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 	> npm install
 	> npm start
 ```
+
+####Image demo#####
+![alt tag](http://sigithanafi.com/wp-content/uploads/2017/01/react-redux-weather.png)
