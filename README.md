@@ -25,4 +25,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 ```
 
 #### Image demo
-![alt tag](http://sigithanafi.com/wp-content/uploads/2017/01/react-redux-weather.png)
+![alt tag](https://raw.githubusercontent.com/sigidhanafi/weather-information-with-reactjs/master/react-redux-weather.png)
